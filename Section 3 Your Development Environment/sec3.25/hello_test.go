@@ -1,4 +1,4 @@
-package quote
+package hello
 
 import "testing"
 

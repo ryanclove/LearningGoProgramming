@@ -1,4 +1,4 @@
-package quote
+package hello
 
 // Hello returns a greeting.
 func Hello() string {

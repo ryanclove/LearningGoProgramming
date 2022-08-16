@@ -1,3 +1,3 @@
-module example/hello/quote
+module example/hello
 
 go 1.19
