@@ -1,4 +1,4 @@
-# exampleGo
+# LearningGoProgramming
 Udemy Learn How to Code: Google's Go Programming Language
 
 ## fmt package
