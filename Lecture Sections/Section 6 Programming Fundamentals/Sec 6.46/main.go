@@ -13,7 +13,7 @@ func main() {
 	bs := []byte(s)
 	fmt.Println(bs)
 	fmt.Printf("%T\n", bs)
-	/* prints:
+	/* prints:s
 	[72 101 108 108 111 44 32 115 116 114 105 110 103]
 	[]uint8
 

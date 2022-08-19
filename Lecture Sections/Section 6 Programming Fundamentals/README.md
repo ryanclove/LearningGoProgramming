@@ -10,5 +10,5 @@ Section 6 contents:
 46. String type
 47. Numeral Systems
 48. Constants
-49. lota
+49. Iota
 50. Bit shifting
