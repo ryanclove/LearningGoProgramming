@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // Iota
+// (pronounced eye-oh-tuh)
 // A pre-declared identifier
 
 const (
