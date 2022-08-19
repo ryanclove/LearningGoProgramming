@@ -1,6 +1,6 @@
 # Section 6 Programming Fundamentals
 
-Begins at this linK: https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068#content
+Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068#content
 
 Section 6 contents:
 
