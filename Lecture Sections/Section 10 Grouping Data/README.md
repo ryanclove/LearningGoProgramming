@@ -4,6 +4,11 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 ## Links/Documentations
 
+[Effective Go - Slices](https://go.dev/doc/effective_go#slices)
+
+[Effective Go - make function](https://go.dev/doc/effective_go#slices:~:text=Einval%3A%20%22invalid%20argument%22%7D-,Allocation%20with%20make,-Back%20to%20allocation)
+
+[Effective Go - maps](https://go.dev/doc/effective_go#maps)
 
 ## Sections
 
