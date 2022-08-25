@@ -4,7 +4,9 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 ## Links/Documentations
 
+[Language Specification - Struct Types](https://go.dev/ref/spec#Struct_types)
 
+[Is Go an object-oriented program? Yes and no. It's about type](https://go.dev/doc/faq#Is_Go_an_object-oriented_language)
 
 ## Sections
 
