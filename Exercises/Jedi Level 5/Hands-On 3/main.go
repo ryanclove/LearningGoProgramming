@@ -24,8 +24,41 @@ Print out each of these values.
 Print out a single field from each of these values.
 */
 
-func main() {
+type vehicle struct {
+	doors int
+	color string
+}
 
-	fmt.Println()
+type truck struct {
+	vehicle
+	fourWheel bool
+}
+
+type sedan struct {
+	vehicle
+	luxury bool
+}
+
+func main() {
+	t := truck{
+		vehicle: vehicle{
+			doors: 4,
+			color: "blue",
+		},
+		fourWheel: true,
+	}
+
+	s := sedan{
+		vehicle: vehicle{
+			doors: 2,
+			color: "red",
+		},
+		luxury: false,
+	}
+
+	fmt.Println(t)
+	fmt.Println(t.vehicle)
+	fmt.Println(s)
+	fmt.Println(s.luxury)
 
 }
