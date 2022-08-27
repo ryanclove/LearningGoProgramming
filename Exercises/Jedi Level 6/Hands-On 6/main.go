@@ -5,9 +5,15 @@ import (
 )
 
 /*
-
- */
+Build and use an anonymous func
+*/
 
 func main() {
-	fmt.Println()
+	func() {
+		for i := 1; i <= 10; i++ {
+			fmt.Println(i)
+		}
+	}()
+
+	fmt.Println("Anonymous func ran")
 }

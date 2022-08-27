@@ -21,3 +21,5 @@ https://pkg.go.dev/
 
 - [runtime package](https://pkg.go.dev/runtime#pkg-overview)
 
+- [math package](https://pkg.go.dev/math)
+
