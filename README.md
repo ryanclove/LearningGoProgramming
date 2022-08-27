@@ -17,10 +17,7 @@ https://go.dev/doc/effective_go
 
 https://pkg.go.dev/
 
-- #### fmt package
+- [fmt package](https://pkg.go.dev/fmt#pkg-overview)
 
-- https://pkg.go.dev/fmt#pkg-overview
+- [runtime package](https://pkg.go.dev/runtime#pkg-overview)
 
-- #### runtime package
-
-- https://pkg.go.dev/runtime#pkg-overview
