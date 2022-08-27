@@ -9,7 +9,7 @@ https://go.dev/ref/spec
 
 https://go.dev/doc/
 
-### Effective Go
+## Effective Go
 
 https://go.dev/doc/effective_go
 
@@ -17,10 +17,10 @@ https://go.dev/doc/effective_go
 
 https://pkg.go.dev/
 
-#### fmt package
+- #### fmt package
 
-https://pkg.go.dev/fmt#pkg-overview
+- https://pkg.go.dev/fmt#pkg-overview
 
-#### runtime package
+- #### runtime package
 
-https://pkg.go.dev/runtime#pkg-overview
+- https://pkg.go.dev/runtime#pkg-overview
