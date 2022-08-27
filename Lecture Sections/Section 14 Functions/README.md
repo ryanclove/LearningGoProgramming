@@ -4,7 +4,10 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 ## Links/Documentations
 
+[Passing arguments to ... parameters](https://go.dev/ref/spec#Passing_arguments_to_..._parameters)
 
+[Interfaces and other Types](https://go.dev/doc/effective_go#interfaces_and_types)
+- includes Conversions, type assertions, generality, & interfaces and methods
 
 ## Sections
 
