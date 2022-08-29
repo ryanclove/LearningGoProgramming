@@ -5,9 +5,12 @@ import (
 )
 
 /*
-
- */
+● Create a value and assign it to a variable.
+● Print the address of that value
+*/
 
 func main() {
-	fmt.Println()
+	a := 42
+	fmt.Println(a)
+	fmt.Println(&a)
 }
