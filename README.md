@@ -23,3 +23,5 @@ https://pkg.go.dev/
 
 - [math package](https://pkg.go.dev/math)
 
+- [JSON package](https://pkg.go.dev/encoding/json)
+
