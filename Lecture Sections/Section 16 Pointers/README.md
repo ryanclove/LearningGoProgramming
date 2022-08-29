@@ -6,6 +6,8 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 [Methods - Pointers vs Values](https://go.dev/doc/effective_go#methods)
 
+[Method Sets](https://go.dev/ref/spec#Method_sets)
+
 ## Sections
 
 132. [What are pointers?](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2016%20Pointers/Sec%2012.132/main.go)
