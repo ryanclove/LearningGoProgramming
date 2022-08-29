@@ -10,6 +10,6 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 ## Sections
 
-132. [What are pointers?](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2016%20Pointers/Sec%2012.132/main.go)
-133. [When to use pointers](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2016%20Pointers/Sec%2012.133/main.go)
-134. [Method Sets](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2016%20Pointers/Sec%2012.134/main.go)
+132. [What are pointers?](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2016%20Pointers/Sec%2016.132/main.go)
+133. [When to use pointers](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2016%20Pointers/Sec%2016.133/main.go)
+134. [Method Sets](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2016%20Pointers/Sec%2016.134/main.go)
