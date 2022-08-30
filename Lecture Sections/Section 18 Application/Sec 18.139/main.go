@@ -1,11 +1,40 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 )
 
-//
+// JSON Unmarshal
+// func Unmarshal(data []byte, v any) error
+
+// Todd's github JSON README.html
+// https://github.com/GoesToEleven/golang-web-dev/blob/master/040_json/README.html
+
+type person struct {
+	First string `json:"First"`
+	Last  string `json:"Last"`
+	Age   int    `json:"Age"`
+}
 
 func main() {
-	fmt.Println()
+	s := `[{"First":"James","Last":"Bond","Age":32},{"First":"Miss","Last":"Moneypenny","Age":27}]`
+	bs := []byte(s)
+	fmt.Printf("%T\n", s)
+	fmt.Printf("%T\n", bs)
+
+	var people []person
+	// more readable way than people := []person{}
+
+	err := json.Unmarshal(bs, &people)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	fmt.Println("\nall of the data that got Unmarshaled:", people)
+
+	for i, v := range people {
+		fmt.Println("\nPERSON NUMBER", i)
+		fmt.Println(v.First, v.Last, v.Age)
+	}
 }

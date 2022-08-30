@@ -6,6 +6,14 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 [Effective Go - JSON package](https://pkg.go.dev/encoding/json)
 
+[Todd's GoLang web development github repo - 040_jason](https://github.com/GoesToEleven/golang-web-dev/tree/master/040_json)
+
+[JSON-to-Go](https://mholt.github.io/json-to-go/)
+
+[io package (writer interface)](https://pkg.go.dev/io)
+
+[Sort Package](https://pkg.go.dev/sort)
+
 ## Sections
 
 137. [JSON documentation](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2018%20Application/Sec%2018.137/README.md)

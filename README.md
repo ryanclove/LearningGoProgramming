@@ -25,3 +25,8 @@ https://pkg.go.dev/
 
 - [JSON package](https://pkg.go.dev/encoding/json)
 
+- [io package (writer interface)](https://pkg.go.dev/io)
+
+- [os package](https://pkg.go.dev/os)
+
+- [sort](https://pkg.go.dev/sort)
