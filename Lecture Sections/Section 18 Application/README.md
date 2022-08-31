@@ -14,6 +14,8 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 [Sort Package](https://pkg.go.dev/sort)
 
+[bcrypt Package](https://pkg.go.dev/golang.org/x/crypto/bcrypt)
+
 ## Sections
 
 137. [JSON documentation](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2018%20Application/Sec%2018.137/README.md)

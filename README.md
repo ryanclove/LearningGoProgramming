@@ -17,16 +17,18 @@ https://go.dev/doc/effective_go
 
 https://pkg.go.dev/
 
-- [fmt package](https://pkg.go.dev/fmt#pkg-overview)
+- ["fmt" package](https://pkg.go.dev/fmt#pkg-overview)
 
-- [runtime package](https://pkg.go.dev/runtime#pkg-overview)
+- ["runtime" package](https://pkg.go.dev/runtime#pkg-overview)
 
-- [math package](https://pkg.go.dev/math)
+- ["math" package](https://pkg.go.dev/math)
 
-- [JSON package](https://pkg.go.dev/encoding/json)
+- ["encoding/json package](https://pkg.go.dev/encoding/json)
 
-- [io package (writer interface)](https://pkg.go.dev/io)
+- ["io" package (writer interface)](https://pkg.go.dev/io)
 
-- [os package](https://pkg.go.dev/os)
+- ["os" package](https://pkg.go.dev/os)
 
-- [sort](https://pkg.go.dev/sort)
+- ["sort" package](https://pkg.go.dev/sort)
+
+- ["golang.org/x/crypto/bcrypt" aka bcrypt Package](https://pkg.go.dev/golang.org/x/crypto/bcrypt)
