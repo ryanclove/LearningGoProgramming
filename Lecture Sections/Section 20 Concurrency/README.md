@@ -4,11 +4,13 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 ## Links/Documentations
 
+["sync" package](https://pkg.go.dev/sync)
 
+[Method sets specs](https://go.dev/ref/spec#Method_sets)
 
 ## Sections
 
-149. [Concurrency vs Parallelism](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2020%20Concurrency/Sec%2020.149/main.go)
+149. [Concurrency vs Parallelism](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2020%20Concurrency/Sec%2020.149/README.md)
 150. [WaitGroup](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2020%20Concurrency/Sec%2020.150/main.go)
 151. [Method sets revisted](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2020%20Concurrency/Sec%2020.151/main.go)
 152. [Documentation](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2020%20Concurrency/Sec%2020.152/main.go)
