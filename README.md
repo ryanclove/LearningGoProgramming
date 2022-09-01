@@ -23,7 +23,7 @@ https://pkg.go.dev/
 
 - ["math" package](https://pkg.go.dev/math)
 
-- ["encoding/json package](https://pkg.go.dev/encoding/json)
+- ["encoding/json" package](https://pkg.go.dev/encoding/json)
 
 - ["io" package (writer interface)](https://pkg.go.dev/io)
 
@@ -35,4 +35,4 @@ https://pkg.go.dev/
 
 - ["sync" package](https://pkg.go.dev/sync)
 
-- ["atomic" package](https://pkg.go.dev/sync/atomic)
+- ["sync/atomic" aka atomic package](https://pkg.go.dev/sync/atomic)

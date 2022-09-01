@@ -17,7 +17,7 @@ func main() {
 	fmt.Println("CPUs:", runtime.NumCPU())
 	fmt.Println("Goroutines:", runtime.NumGoroutine())
 
-	counter := 04
+	counter := 0
 	const gs = 100
 	var wg sync.WaitGroup
 	wg.Add(gs)
@@ -48,5 +48,5 @@ func main() {
 
 	wg.Wait()
 	fmt.Println("Goroutines:", runtime.NumGoroutine())
-	fmt.Println("count:", counter) // prints 104, should be 100
+	fmt.Println("count:", counter)
 }
