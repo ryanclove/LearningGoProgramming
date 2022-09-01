@@ -2,6 +2,7 @@
 
 ## Effective Go
 [Concurrency](https://go.dev/doc/effective_go#concurrency)  
+
 Share by communicating
 
 [Goroutines](https://go.dev/doc/effective_go#goroutines)  
