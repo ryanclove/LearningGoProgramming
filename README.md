@@ -32,3 +32,7 @@ https://pkg.go.dev/
 - ["sort" package](https://pkg.go.dev/sort)
 
 - ["golang.org/x/crypto/bcrypt" aka bcrypt Package](https://pkg.go.dev/golang.org/x/crypto/bcrypt)
+
+- ["sync" package](https://pkg.go.dev/sync)
+
+- ["atomic" package](https://pkg.go.dev/sync/atomic)
