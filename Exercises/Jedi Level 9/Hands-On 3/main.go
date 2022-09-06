@@ -51,10 +51,10 @@ func main() {
 func incrementer1() {
 	for i := 0; i < gs; i++ {
 		go func() {
-			v := counter
-			runtime.Gosched()
-			v++
-			counter = v
+			v := counter      // the race condition
+			runtime.Gosched() // the race condition
+			v++               // the race condition
+			counter = v       // the race condition
 			wg.Done()
 		}()
 		fmt.Printf("Counter value: %d\t 1st incrementer Goroutines : %d\n", counter, runtime.NumGoroutine())
@@ -66,10 +66,10 @@ func incrementer1() {
 func incrementer2() {
 	for i := 0; i < gs; i++ {
 		go func() {
-			v := counter
-			runtime.Gosched()
-			v++
-			counter = v
+			v := counter      // the race condition
+			runtime.Gosched() // the race condition
+			v++               // the race condition
+			counter = v       // the race condition
 			wg.Done()
 		}()
 		fmt.Printf("Counter value: %d\t 2nd incrementer Goroutines : %d\n", counter, runtime.NumGoroutine())
