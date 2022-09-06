@@ -1,6 +1,6 @@
 # Jedi Level 10
 
-Link: https://www.udemy.com/course/learn-how-to-code/learn/lecture/11924334#overview
+Link: https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922362#overview
 
 The videos and pdf of Section 23 call them  Ninja levels, I'm going with Jedi in my directories
 
