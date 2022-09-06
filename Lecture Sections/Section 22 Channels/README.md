@@ -6,6 +6,12 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 
 **CHANNELS BLOCK**
 
+[Channels - Effective Go](https://go.dev/doc/effective_go#channels)
+
+["context" package](https://pkg.go.dev/context)
+
+[Conext - Go blog](https://go.dev/blog/context)
+
 ## Sections
 
 162. [Understanding channels](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2022%20Channels/Sec%2022.162/main.go)
