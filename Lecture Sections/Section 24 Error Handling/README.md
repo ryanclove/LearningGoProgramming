@@ -19,8 +19,8 @@ We believe that coupling exceptions to a control structure, as in the try-catch-
 
 ## Sections
 
-178. [Understanding](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2022%20Error%20Handling/Sec%2022.178/README.md)
-179. [Checking errors](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2022%20Error%20Handling/Sec%2022.179/main.go)
-180. [Printing and Logging](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2022%20Error%20Handling/Sec%2022.180/main.go)
-181. [Recover](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2022%20Error%20Handling/Sec%2022.181)
-182. [Errors with info](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2022%20Error%20Handling/Sec%2022.182/main.go)
+178. [Understanding](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.178/README.md)
+179. [Checking errors](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.179/main.go)
+180. [Printing and Logging](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.180/main.go)
+181. [Recover](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.181)
+182. [Errors with info](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.182/main.go)
