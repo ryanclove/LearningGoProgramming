@@ -12,7 +12,7 @@ bio
 [golang.org](https://go.dev/doc/)
 - standard library documentation
 
-[go doc](https://pkg.go.dev/cmd/go)]
+[go doc](https://pkg.go.dev/cmd/go)
 - command to read documentation at the command line
 - notice the space in go doc
 
