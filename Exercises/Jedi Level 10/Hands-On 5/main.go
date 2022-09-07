@@ -10,7 +10,17 @@ Show the comma ok idiom starting with this code:
 */
 
 func main() {
+	c := make(chan int)
 
-	fmt.Println()
+	go func() {
+		c <- 42
+	}()
 
+	v, ok := <-c
+	fmt.Println(v, ok)
+
+	close(c)
+
+	v, ok = <-c
+	fmt.Println(v, ok)
 }
