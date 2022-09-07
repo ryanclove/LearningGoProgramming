@@ -15,7 +15,7 @@
 ## link
 
 - [godoc](https://pkg.go.dev/golang.org/x/tools/cmd/godoc?utm_source=godoc)
-    ○ command to read documentation at the command line
-    ○ also can run a local server showing documentation
-    ○ [command documentation](https://go.dev/doc/cmd)
+    - command to read documentation at the command line
+    - also can run a local server showing documentation
+    - [command documentation](https://go.dev/doc/cmd)
 
