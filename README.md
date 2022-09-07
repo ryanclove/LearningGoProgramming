@@ -44,3 +44,5 @@ https://pkg.go.dev/
 - ["log" package](https://pkg.go.dev/log)
 
 - [builtin package](https://pkg.go.dev/builtin)
+
+- ["testing" package](https://pkg.go.dev/testing?utm_source=godoc)
