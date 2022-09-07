@@ -38,3 +38,9 @@ https://pkg.go.dev/
 - ["sync/atomic" aka atomic package](https://pkg.go.dev/sync/atomic)
 
 - ["context" package](https://pkg.go.dev/context)
+
+- ["errors" package](https://pkg.go.dev/errors)
+
+- ["log" package](https://pkg.go.dev/log)
+
+- [builtin package](https://pkg.go.dev/builtin)
