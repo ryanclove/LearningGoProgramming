@@ -23,4 +23,4 @@ We believe that coupling exceptions to a control structure, as in the try-catch-
 179. [Checking errors](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.179/main.go)
 180. [Printing and Logging](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.180/main.go)
 181. [Recover](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.181/main.go)
-182. [Errors with info](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.182/main.go)
+182. [Errors with info](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2024%20Error%20Handling/Sec%2024.182)
