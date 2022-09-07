@@ -23,8 +23,8 @@ bio
 
 ## Sections
 
-188. [Introduction](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Error%20Handling/Sec%2026.188/README.md)
-189. [go doc](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Error%20Handling/Sec%2026.189)
-190. [godoc](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Error%20Handling/Sec%2026.190/main.go)
-191. [godoc .org](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Error%20Handling/Sec%2026.191/main.go)
-192. [Writing Documentation](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Error%20Handling/Sec%2026.192)
+188. [Introduction](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Writing%20Documentation/Sec%2026.188/README.md)
+189. [go doc](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Writing%20Documentation/Sec%2026.189)
+190. [godoc](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Writing%20Documentation/Sec%2026.190/main.go)
+191. [godoc .org](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Writing%20Documentation/Sec%2026.191/main.go)
+192. [Writing Documentation](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2026%20Writing%20Documentation/Sec%2026.192)
