@@ -5,6 +5,6 @@
 Therefore, I created a separate folder in the main directory of LearningGoProgramming to keep the whitespaces in the Lecture
 and Exercise directories
 
-[Link to Lecture 28 Testing & Benchmark directory]
+[Link to Section_28_Testing_&_Benchmark_directory](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking)
 
 [Link to Jedi Level 13] - which is testing

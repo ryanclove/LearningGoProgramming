@@ -27,11 +27,11 @@ Nice idiom
 
 ## Sections
 
-194. [Introduction](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.194/main.go)
-195. [Table tests](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.195/main.go)
-196. [Example tests](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.196/main.go)
-197. [Golint](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.197/main.go)
-198. [Benchmark](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.198/main.go)
-199. [Coverage](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.199/main.go)
-200. [Benchmark examples](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.200/main.go)
-201. [Review](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2028%20Testing%20and%20Benchmarking/Sec%2028.201/main.go)
+194. [Introduction](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.194)
+195. [Table tests](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.195)
+196. [Example tests](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.196)
+197. [Golint](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.197)
+198. [Benchmark](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.198)
+199. [Coverage](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.199)
+200. [Benchmark examples](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.200)
+201. [Review](https://github.com/ryanclove/LearningGoProgramming/tree/master/Testing_Lecture_and_Exercises/Section_28_Testing_and_Benchmarking/Sec_28.201)
