@@ -45,4 +45,4 @@ https://pkg.go.dev/
 
 - [builtin package](https://pkg.go.dev/builtin)
 
-- ["testing" package](https://pkg.go.dev/testing?utm_source=godoc)
+- ["testing" package](https://pkg.go.dev/testing)
