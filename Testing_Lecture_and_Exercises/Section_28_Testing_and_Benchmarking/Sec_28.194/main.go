@@ -19,6 +19,8 @@ Nice idiom
 	● expected
 	● got
 
+	go test -v
+
 */
 
 func main() {

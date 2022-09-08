@@ -7,7 +7,7 @@ Begins at this link: https://www.udemy.com/course/learn-how-to-code/learn/lectur
 ["testing" package](https://pkg.go.dev/testing)
 
 [func (*T) Error(args ...any)](https://pkg.go.dev/testing#T.Error)
-
+s
 ## Summary
 
 **PATH TO DIRECTORY MUST NOT CONTAIN WHITE SPACE CHARS OR APOSTROPHES (')**
@@ -23,6 +23,17 @@ Deal with test failure
 Nice idiom
 - expected
 - got
+
+cmd: 	go test -v
+    - for verbose printout
+    - will test all files with _test
+
+Examples show up in documentation.
+- godoc -http :8080
+- https://blog.golang.org/examples
+- go test ./…
+    - test everything where i'm at./ and everything down the directory tree
+  
 
 
 ## Sections
