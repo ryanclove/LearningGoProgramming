@@ -2,39 +2,23 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/GoesToEleven/LearningGoProgramming/Testing_Lecture_and_Exercises/Jedi_Level_13/Hands-On-3/mymath"
 )
 
-/*
-Create a struct “customErr” which implements the builtin.error interface. Create a func “foo” that
-has a value of type error as a parameter. Create a value of type “customErr” and pass it into
-“foo”. If you need a hint, here is one - https://go.dev/play/p/L5QWV8-p11
-*/
-
-type customErr struct {
-	info string
-}
-
-// any value of type customErr will implicitely implement the Error() interface
-func (ce customErr) Error() string {
-	return fmt.Sprintf("Here is the error: %v", ce.info)
-}
-
 func main() {
-	c := customErr{
-		info: "You aren't good at programming",
+	xxi := gen()
+	for _, v := range xxi {
+		fmt.Println(mymath.CenteredAvg(v))
 	}
-	foo(c)
 }
 
-func foo(e error) {
-	fmt.Println("Foo ran -", e)
-	// use insertion (not conversion) to implement assertion of interface
-	fmt.Println("Foo ran and used insertion -", e.(customErr).info)
+// gen generates data to pass into CenteredAvg
+func gen() [][]int {
+	a := []int{1, 4, 6, 8, 100}
+	b := []int{0, 8, 10, 1000}
+	c := []int{9000, 4, 10, 8, 6, 12}
+	d := []int{123, 744, 140, 200}
+	e := [][]int{a, b, c, d}
+	return e
 }
-
-/* conversion would be referencing a type to a var
-type hotdog int
-var x hotdog = 42
-var y int
-var y = int(x) // convert type hotdog to int
-*/
