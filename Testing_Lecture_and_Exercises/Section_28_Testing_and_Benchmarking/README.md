@@ -19,6 +19,7 @@ Tests must
 
 Run a test  
 - go test  
+
 Deal with test failure  
 - use t.Error to signal failure  
 
