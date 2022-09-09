@@ -12,13 +12,13 @@ s
 
 **PATH TO DIRECTORY MUST NOT CONTAIN WHITE SPACE CHARS OR APOSTROPHES (')**
 
-Tests must
-    - be in a file that ends with “_test.go”
-    - put the file in the same package as the one    being tested
-    - be in a func with a signature “func TestXxx(*testing.T)”
-Run a test
-    - go test
-Deal with test failure
+Tests must  
+    - be in a file that ends with “_test.go”  
+    - put the file in the same package as the one    being tested  
+    - be in a func with a signature “func TestXxx(*testing.T)”  
+Run a test  
+    - go test  
+Deal with test failure  
     - use t.Error to signal failure  
 Nice idiom
     - expected
