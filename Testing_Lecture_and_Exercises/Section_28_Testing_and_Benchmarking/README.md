@@ -13,20 +13,20 @@ s
 **PATH TO DIRECTORY MUST NOT CONTAIN WHITE SPACE CHARS OR APOSTROPHES (')**
 
 Tests must  
-    - be in a file that ends with “_test.go”  
-    - put the file in the same package as the one    being tested  
-    - be in a func with a signature “func TestXxx(*testing.T)”  
+- be in a file that ends with “_test.go”  
+- put the file in the same package as the one    being tested  
+- be in a func with a signature “func TestXxx(*testing.T)”  
 Run a test  
-    - go test  
+- go test  
 Deal with test failure  
-    - use t.Error to signal failure  
+- use t.Error to signal failure  
 Nice idiom
-    - expected
-    - got
+- expected
+- got
 
 cmd: 	go test -v  
-    - for verbose printout  
-    - will test all files with _test
+- for verbose printout  
+- will test all files with _test
 
 Examples show up in documentation.
 - godoc -http :8080
